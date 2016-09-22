@@ -1,0 +1,126 @@
+/*font-family: 'Baloo Bhaina', cursive;
+font-family: 'PT Sans Narrow', sans-serif;
+*/
+#contenidos{
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	position: relative;
+	
+}
+
+body{
+	background-image: url(../img/back1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1{
+	font-family: 'Baloo Bhaina', cursive;
+	color: white;
+	margin-left: 10px;
+	font-size: 60px;
+	text-align: center;
+}
+h2{
+	font-family: 'PT Sans Narrow', sans-serif;
+	color: white;
+	margin-left: 10px;
+	font-size: 40px;
+	height: 50px;
+	margin-top: -35px;
+	text-align: left;
+}
+
+h3{
+	font-family: 'PT Sans Narrow', sans-serif;
+	color: white;
+	margin-left: 10px;
+	font-size: 40px;
+	height: 50px;
+	margin-: 30px;
+	text-align: left;
+}
+
+header{
+	font-color: white;
+	width: 1000px;
+	height: 120px;
+	background: rgba(255, 255, 255, 3.5, 5);
+}
+
+nav{
+	width: 1000px;
+	height:80px;
+	border-radius: 10px;
+	background-color: black;
+	box-shadow: 0 0 10px white inset;
+}
+
+ul{
+	margin: auto;
+	padding-top: 80px;
+	margin-left: -45px;
+}
+
+li{
+	float: left;
+	width: 150px;
+	text-align: center;.33
+	list-style-type: none;
+	padding: 5px;
+	background: black;
+	margin: 5px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px white inset; 
+
+}
+
+footer{
+color: white;
+width: 1000px;
+height: 50px;
+background: black;
+float: center;
+margin-top: 700px;
+box-shadow: 0 0 5px white inset;
+/*texto copyright*/
+}
+
+p{
+font-size: 10px;
+color: white;
+font-weight: bolder;
+line-height: 20px;
+padding: 5px;
+text-align: justify;
+/*texto universidad*/
+}
+
+span{
+color: white;
+width: 1000px;
+height: 30px;
+float: left;
+margin-top: -70px;
+/*enlace U*/
+}
+
+img{
+	margin-top: 30px;
+	width: 1000px;
+}
+
+img2{
+
+}
+	/*imagen logo UNAD*/
+/*Clases*/
+.ancho_menu_home{width: 900px;}
+.ancho_menu_paginas{width: 970px;}
+
+.menu:link {color: white; text-decoration: none;}
+.menu:visited {color: white; text-decoration: none;}
+.menu:hover {color: white; text-decoration: none; text box-shadow: 0 0 15px white;}
+.menu:active {color: white; text-decoration: none;}
+
+/*seudo clases*/
